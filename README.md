@@ -1,7 +1,7 @@
 # to-do-list 识别
 
 # 临时紧急重要任务 (2023-10-29)
-  1. AppSevice (Console/webApi) 环境变量不生效
+  1. AppSevice (Console/webApi) 环境变量不生效?无法加载?读取?
   1. publish CI/CD command line (WebApi)
 
 # `AutoGen` (2023-10-29)
