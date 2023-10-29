@@ -6,11 +6,9 @@
 
 # `AutoGen` (2023-10-29)
   1. 场景创意启发
-     
-     	样例调试成功，
+     - 样例调试成功，
   1. 如何定制专用 `role agent`, `system message`
-     
-     	参数化 `User_Proxy` 应答
+     - 参数化 `User_Proxy` 应答
   1. 并发/调用 `llm` 的效果
   1. 深度学习、挖掘 `autogen` 源码，定制 `agent`
   1. `RetrieveAssistantAgent` 专用的内置 `Agent` 有哪些
