@@ -1,18 +1,27 @@
-# to-do-list
+# to-do-list 识别
 
-AAAAAAAAAAAAAAA
-1.AppSevice (Console/webApi) 环境变量不生效
-2.publish CI/CD command line (WebApi)
+# 临时紧急重要任务 (2023-10-29)
+  1. AppSevice (Console/webApi) 环境变量不生效
+  1. publish CI/CD command line (WebApi)
 
-BBBBBBBBBBBBBBBBBBBBBBBBBB
-1.样例调试成功，启发场景创意
-2.如何定制专用role agent, system message
-	参数化 User_Proxy 应答
-3.并发/调用 llm 的效果
-4.深度学习、挖掘
-5.RetrieveAssistantAgent 专用的内置Agent有哪些
-6.QdrantRetrieveUserProxyAgent 开源
+# `AutoGen` (2023-10-29)
+  1. 场景创意启发
+     
+     	样例调试成功，
+  1. 如何定制专用 `role agent`, `system message`
+     
+     	参数化 `User_Proxy` 应答
+  1. 并发/调用 `llm` 的效果
+  1. 深度学习、挖掘 autogen 源码，定制 `agent`
+  1. `RetrieveAssistantAgent` 专用的内置 `Agent` 有哪些
+  1. `QdrantRetrieveUserProxyAgent` 开源代码研究
 
-CCCCCCCCCCCCCCCCCCC
-PDF to Markdown
+# PDF to Markdown
+  1. PDF to Markdown Tree
+  3. 干掉目录生成 markdown
+  4. 干掉页眉页脚 markdown
+  5. C#/.NET Core MuPDF
+     
+     https://github.com/arklumpus/MuPDFCore
+  
 
