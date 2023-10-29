@@ -15,11 +15,11 @@
   1. `QdrantRetrieveUserProxyAgent` 开源代码研究
 
 # PDF to Markdown
-  1. PDF to Markdown Tree
+  1. PDF to Markdown DOM/Tree .NET Core C# 封装
+     - C#/.NET Core MuPDF
+       - https://github.com/arklumpus/MuPDFCore
   3. 干掉目录生成 markdown
   4. 干掉页眉页脚 markdown
-  5. C#/.NET Core MuPDF
      
-     https://github.com/arklumpus/MuPDFCore
   
 
