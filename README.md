@@ -12,7 +12,7 @@
      
      	参数化 `User_Proxy` 应答
   1. 并发/调用 `llm` 的效果
-  1. 深度学习、挖掘 autogen 源码，定制 `agent`
+  1. 深度学习、挖掘 `autogen` 源码，定制 `agent`
   1. `RetrieveAssistantAgent` 专用的内置 `Agent` 有哪些
   1. `QdrantRetrieveUserProxyAgent` 开源代码研究
 
