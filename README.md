@@ -4,6 +4,14 @@
   1. AppSevice (Console/webApi) 环境变量不生效?无法加载?读取?
   1. publish ~~CI/CD~~ Az App Service command line (WebApi)
 
+## `ThreadingTasksScheduler`
+  1. 实现跑批任务测试
+    - 远程调用 
+  3. 确认 `send/post` 时序
+
+## `Semantic Kernal`
+  1. Retry 策略
+
 ## `AutoGen` (2023-10-29)
   1. 场景创意启发
      - 样例调试成功
